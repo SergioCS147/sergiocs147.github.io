@@ -1,7 +1,5 @@
 ---
 layout: home
-title: Sergio Cristancho-Sánchez
-permalink: 
 ---
 
 I am a second year Master's Student at Universidad de los Andes. Currently I work under the guidance [Mauricio Velasco](http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html) on applied representation theory and geometry in polynomial optimization.
