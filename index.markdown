@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![](_assets/Me.JPG)
+![](assets/images/Me.JPG)
 
 <p align="justify"> I am a second year Master's Student at Universidad de los Andes. Currently I work under the guidance <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a> on applied representation theory and geometry in polynomial optimization. </p>
 
