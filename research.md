@@ -3,3 +3,17 @@ layout: page
 title: Research
 permalink: /research/
 ---
+
+<h4><strong> Preprints </strong> </h4>
+
+Harmonic Hierarchies for Polynomial Optimization. With <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a>. 2022. [<a href="https://arxiv.org/abs/2202.12865">arXiv</a>]
+
+<h4><strong> Code </strong> </h4>
+
+Harmonic Hierarchies for the Sphere aka HarmonicPolya. [<a href="https://github.com/SergioCS147/HarmonicPolya.jl">github</a>].
+
+<!---
+<h4><strong> Thesis </strong> </h4>
+
+Undergraduate - Math. Under <a href="https://sites.google.com/view/davidkarpuk/home">David Karpuk</a>. 
+-->
