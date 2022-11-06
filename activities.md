@@ -20,6 +20,6 @@ None... yet!
 <h4><strong> Past Seminars </strong> </h4>
 
 <ul>
-  <li>Spring 2022 - Reading Seminar: Algebraic Geometry and Introduction to Schemes.</li>.
+  <li>Spring 2022 - Reading Seminar: Algebraic Geometry and Introduction to Schemes.</li>
 </ul>
 
