@@ -6,8 +6,9 @@ permalink: /activities/
 
 <h4><strong> Upcoming Activities </strong> </h4>
 
-None... yet!
-
+<ul>
+  <li>July 2023 - <a href="https://www.siam.org/conferences/cm/conference/ag23">SIAM AG23</a>. Talk: Harmonic Hierarchies for Polynomial Optimization on Homogeneous Spaces.</li>
+</ul>
 
 <h4><strong> Past Activities </strong> </h4>
 
