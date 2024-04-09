@@ -4,9 +4,14 @@ title: Research
 permalink: /research/
 ---
 
+
 <h4><strong> Preprints </strong> </h4>
 
 Harmonic Hierarchies for Polynomial Optimization. With <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a>. 2022. [<a href="https://arxiv.org/abs/2202.12865">arXiv</a>]
+
+<h4><strong> Publications </strong> </h4>
+
+Harmonic Hierarchies for Polynomial Optimization. With <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a>. 2024. [<a href="https://epubs.siam.org/doi/full/10.1137/22M1484511">link</a>]
 
 <h4><strong> Code </strong> </h4>
 
