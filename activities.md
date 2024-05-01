@@ -7,7 +7,7 @@ permalink: /activities/
 <h4><strong> Upcoming Activities </strong> </h4>
 
 <ul>
-  <li>None ... yet!</li>
+  <li>June 2024 - <a href="https://ecco2024.combinatoria.co/home-english"> ECCO 2024</a>.</li>
 </ul>
 
 <h4><strong> Past Activities </strong> </h4>
