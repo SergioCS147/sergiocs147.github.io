@@ -2,7 +2,7 @@
 layout: home
 ---
 <div align="center">
-  <img  src="assets/images/Me.JPG" width="700"/>
+  <img  src="assets/images/Me.JPG" width="750"/>
 </div>
 
 <h4><strong> About me </strong> </h4>
