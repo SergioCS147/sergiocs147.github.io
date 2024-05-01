@@ -1,8 +1,9 @@
 ---
 layout: home
 ---
-
-![](assets/images/Me.JPG)
+<div align="center">
+  <img  src="assets/images/Me.JPG" width="700"/>
+</div>
 
 <h4><strong> About me </strong> </h4>
 
