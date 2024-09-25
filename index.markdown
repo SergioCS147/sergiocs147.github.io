@@ -2,11 +2,11 @@
 layout: home
 ---
 
-.tile img {
-  width:calc(100% - 20px)
-}
 
-<img style="float: right;" src="assets/images/Me_1.jpg" width="426" height="480" >
+
+<.tile img {
+  width:calc(100% - 20px)
+} style="float: right;" src="assets/images/Me_1.jpg" width="426" height="480" >
 
 <p align="justify"> I am a second year PhD student in Applied and Computational Mathematics (PACM) at <a href="https://www.pacm.princeton.edu">Princeton University</a>. My advisor is <a href="https://web.math.princeton.edu/~huh/">June Huh</a>. 
 
