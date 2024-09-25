@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img style="float: right;" src="assets/images/Me_1.jpg" width="566" height="640">
+<img style="float: right;" src="assets/images/Me_1.jpg" width="283" height="320">
 
 <p align="justify"> I am a second year PhD student in Applied and Computational Mathematics (PACM) at <a href="https://www.pacm.princeton.edu">Princeton University</a>. My advisor is <a href="https://web.math.princeton.edu/~huh/">June Huh</a>. 
 
