@@ -7,7 +7,7 @@ permalink: /activities/
 <h4><strong> Upcoming Activities </strong> </h4>
 
 <ul>
-  <li>None yet!</li>
+  <li>November 18-20 2024 - <a href="https://www.ias.edu/math/events/combinatorics-fundamental-physics-workshop"> Combinatorics of Fundamental Physics Workshop </a>, Institute for Advanced Study. </li>
 </ul>
 
 <h4><strong> Past Activities </strong> </h4>
