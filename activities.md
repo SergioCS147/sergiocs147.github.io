@@ -13,7 +13,7 @@ permalink: /activities/
 <h4><strong> Past Activities </strong> </h4>
 
 <ul>
-  <li>July 2024 - Visit to <a href="https://www.kias.re.kr/kias/main/main.do">KIAS</a>, Seoul, South Korea.</li>
+  <li>July 2024 - Visit to <a href="https://www.kias.re.kr/kias/main/main.do">KIAS</a>.</li>
   <li>June 2024 - <a href="https://ecco2024.combinatoria.co/home-english"> ECCO 2024</a>.</li>
   <li>October 2023 - <a href="https://www.ias.edu/sns/tropical_workshop">Tropical Geometry and Infrared Divergences</a>, Institute for Advanced Study.</li> 
   <li>July 2023 - <a href="https://www.siam.org/conferences/cm/conference/ag23">SIAM AG23</a>, Eindhoven University of Technology. Talk: Harmonic Hierarchies for Polynomial Optimization on Homogeneous Spaces.</li>
