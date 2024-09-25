@@ -4,7 +4,7 @@ layout: home
 
 
 
-<img style="float: right; padding: 0px 10px 0px 10px;" src="assets/images/Me_1.jpg" width="426" height="480" >
+<img style="float: right; padding: 0px 20px 0px 20px;" src="assets/images/Me_2.jpg" >
 
 <p align="justify"> I am a second year PhD student in Applied and Computational Mathematics (PACM) at <a href="https://www.pacm.princeton.edu">Princeton University</a>. My advisor is <a href="https://web.math.princeton.edu/~huh/">June Huh</a>. 
 
