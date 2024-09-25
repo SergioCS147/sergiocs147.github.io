@@ -4,7 +4,7 @@ layout: home
 
 
 
-<.tile img {
+< img {
   width:calc(100% - 20px)
 } style="float: right;" src="assets/images/Me_1.jpg" width="426" height="480" >
 
