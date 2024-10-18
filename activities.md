@@ -7,6 +7,8 @@ permalink: /activities/
 <h4><strong> Upcoming Activities </strong> </h4>
 
 <ul>
+  <li>October 21-25 2024 - <a href="https://www.ias.edu/math/events/geometry-matroids-workshop"> Geometry of Matroids Workshop</a>, Institute for Advanced Study. </li>
+  <li>November 8-10 2024 - <a href="https://sites.google.com/site/agneshomepage/dartmouth-2024?authuser=0"> AGNES</a>, Darthmouth College. </li>
   <li>November 18-20 2024 - <a href="https://www.ias.edu/math/events/combinatorics-fundamental-physics-workshop"> Combinatorics of Fundamental Physics Workshop</a>, Institute for Advanced Study. </li>
 </ul>
 
