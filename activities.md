@@ -3,16 +3,18 @@ layout: page
 title: Activities
 permalink: /activities/
 ---
-
+<!--
 <h4><strong> Upcoming Activities </strong> </h4>
 
 <ul>
   <li>November 18-20 2024 - <a href="https://www.ias.edu/math/events/combinatorics-fundamental-physics-workshop"> Combinatorics of Fundamental Physics Workshop</a>, Institute for Advanced Study. </li>
 </ul>
+-->
 
 <h4><strong> Past Activities </strong> </h4>
 
 <ul>
+  <li>November 2024 - <a href="https://www.ias.edu/math/events/combinatorics-fundamental-physics-workshop"> Combinatorics of Fundamental Physics Workshop</a>, Institute for Advanced Study. </li>
   <li>November 2024 - <a href="https://sites.google.com/site/agneshomepage/dartmouth-2024?authuser=0"> AGNES</a>, Darthmouth College. </li>
   <li>October 2024 - <a href="https://www.ias.edu/math/events/geometry-matroids-workshop"> Geometry of Matroids Workshop</a>, Institute for Advanced Study. </li>
   <li>October 2024 - <a href="https://www.ias.edu/mathematical-physics/events/amplitudes-and-combinatorics-synergy-event">Amplitudes and Combinatorics Synergy Event, Institute for Advanced Study</a>. Talk: What is a toric variety?</li>
