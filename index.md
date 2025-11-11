@@ -32,7 +32,7 @@ Harmonic Hierarchies for the Sphere aka HarmonicPolya. [<a href="https://github.
   <li>June 2022 - <em>Harmonic Hierarchies for Polynomial Optimization</em> at <a href="https://scm.org.co/mapi-2/">MAPI 2</a>.</li>
 </ul>
 
-## Contact
+# Contact
 
 📧 sergio[dot]cris[at]princeton[dot]edu
 
