@@ -4,8 +4,6 @@
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-# Sergio Cristancho
-
 
 <p align="justify"> I am a third year PhD student in Applied and Computational Mathematics (PACM) at <a href="https://www.pacm.princeton.edu">Princeton University</a>. I am advised by <a href="https://web.math.princeton.edu/~huh/">June Huh</a>. 
 
