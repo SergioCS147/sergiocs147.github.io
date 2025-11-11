@@ -27,8 +27,10 @@ github_username:  sergiocs147
 
 # Build settings
 theme: minima
-#plugins:
-# - jekyll-feed
+plugins:
+ - jekyll-feed
+header_pages:
+  - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
