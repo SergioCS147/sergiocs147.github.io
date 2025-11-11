@@ -10,7 +10,7 @@
 
 <p align="justify"> Previously I was a master's student at <a href="https://matematicas.uniandes.edu.co">Universidad de los Andes</a> under the guidance of <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a> and an undergraduate in both Mathematics and Physics at UniAndes as well. </p>
 
-<h3><strong> Publications </strong> </h3>
+<h2><strong> Publications </strong> </h2>
 
 Harmonic Hierarchies for Polynomial Optimization. With <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a>. 2024. [<a href="https://epubs.siam.org/doi/full/10.1137/22M1484511">link</a>]
 
@@ -18,7 +18,7 @@ Harmonic Hierarchies for Polynomial Optimization. With <a href="http://wwwprof.u
 
 Harmonic Hierarchies for the Sphere aka HarmonicPolya. [<a href="https://github.com/SergioCS147/HarmonicPolya.jl">github</a>].
 
-<h3><strong> Talks and conferences </strong> </h3>
+<h2><strong> Talks and conferences </strong> </h2>
 
 <ul>
   <li>September 2025 - <em>Inequalities for metric trees and matroids</em> at the <a href="https://www.umass.edu/mathematics-statistics/seminars/discrete-math-seminar">UMass Amherst Discrete Math Seminar</a>.</li>
@@ -30,8 +30,8 @@ Harmonic Hierarchies for the Sphere aka HarmonicPolya. [<a href="https://github.
   <li>June 2022 - <em>Harmonic Hierarchies for Polynomial Optimization</em> at <a href="https://scm.org.co/mapi-2/">MAPI 2</a>.</li>
 </ul>
 
-<h3><strong> Contact </strong> </h3>
+<h2><strong> Contact </strong> </h2>
 
 <p> Email: sergio[dot]cris[at]princeton[dot]edu </p>
 
-<p> GitHub: <a href="https://github.com/SergioCS147">GitHub: SergioCS147</a> </p>
+<p> GitHub: <a href="https://github.com/SergioCS147">SergioCS147</a> </p>
