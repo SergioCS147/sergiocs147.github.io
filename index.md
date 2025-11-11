@@ -9,8 +9,6 @@
 <p align="justify"> Previously I was a master's student at <a href="https://matematicas.uniandes.edu.co">Universidad de los Andes</a> under the guidance of <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a> and an undergraduate in both Mathematics and Physics at UniAndes as well. </p>
 ---
 
-<!-- <h4><strong> Preprints </strong> </h4> -->
-
 <h4><strong> Publications </strong> </h4>
 
 Harmonic Hierarchies for Polynomial Optimization. With <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a>. 2024. [<a href="https://epubs.siam.org/doi/full/10.1137/22M1484511">link</a>]
