@@ -18,7 +18,7 @@ Harmonic Hierarchies for the Sphere aka HarmonicPolya. [<a href="https://github.
 <h4><strong> Talks and conferences </strong> </h4>
 
 <ul>
-  <li>September 2025 - <em>Inequalities for metric trees and matroids</em> at the <a href="https://www.umass.edu/mathematics-statistics/seminars/discrete-math-seminar">UMass Amherst Discrete Math Seminar</a>.
+  <li>September 2025 - <em>Inequalities for metric trees and matroids</em> at the <a href="https://www.umass.edu/mathematics-statistics/seminars/discrete-math-seminar">UMass Amherst Discrete Math Seminar</a>.</li>
   <li>January 2025 - <em>Three proofs of the reverse Khovanskii-Teissier Inequality</em> at the IAS Special Year Seminar.</li>
   <li>October 2024 - <em>What is a toric variety?</em> at <a href="https://www.ias.edu/mathematical-physics/events/amplitudes-and-combinatorics-synergy-event">Amplitudes and Combinatorics Synergy Event, Institute for Advanced Study</a>.</li>
   <li>June 2024 - TA for <em>Combina-torics</em> at <a href="https://ecco2024.combinatoria.co/home-english"> ECCO 2024</a>.</li>
@@ -28,5 +28,7 @@ Harmonic Hierarchies for the Sphere aka HarmonicPolya. [<a href="https://github.
 </ul>
 
 ## Contact
+
 📧 sergio[dot]cris[at]princeton[dot]edu
+
 🐱 <a href="https://github.com/SergioCS147">GitHub: SergioCS147</a>
