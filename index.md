@@ -1,13 +1,11 @@
 # Sergio Cristancho
 
----
 
 <p align="justify"> I am a third year PhD student in Applied and Computational Mathematics (PACM) at <a href="https://www.pacm.princeton.edu">Princeton University</a>. I am advised by <a href="https://web.math.princeton.edu/~huh/">June Huh</a>. 
----
-<p align="justify"> My current interests lie in the intersection of combinatorics, algebraic geometry and convex geometry, and their applications. Here is my <a href="assets/CV-25.pdf">CV</a>. </p>
----
+
+<p align="justify"> My current interests lie in the intersection of combinatorics, algebraic geometry and convex geometry, and their applications. Here is my <a href="assets/CV_25.pdf">CV</a>. </p>
+
 <p align="justify"> Previously I was a master's student at <a href="https://matematicas.uniandes.edu.co">Universidad de los Andes</a> under the guidance of <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a> and an undergraduate in both Mathematics and Physics at UniAndes as well. </p>
----
 
 <h4><strong> Publications </strong> </h4>
 
@@ -16,8 +14,6 @@ Harmonic Hierarchies for Polynomial Optimization. With <a href="http://wwwprof.u
 <h4><strong> Code </strong> </h4>
 
 Harmonic Hierarchies for the Sphere aka HarmonicPolya. [<a href="https://github.com/SergioCS147/HarmonicPolya.jl">github</a>].
-
----
 
 <h4><strong> Talks and conferences </strong> </h4>
 
@@ -30,8 +26,6 @@ Harmonic Hierarchies for the Sphere aka HarmonicPolya. [<a href="https://github.
   <li>July 2022 - <em>Harmonic Hierarchies for Polynomial Optimization</em> at <a href="https://iccopt2022.lehigh.edu">ICCOPT 2022</a>, Lehigh University.</li>
   <li>June 2022 - <em>Harmonic Hierarchies for Polynomial Optimization</em> at <a href="https://scm.org.co/mapi-2/">MAPI 2</a>.</li>
 </ul>
-
----
 
 ## Contact
 📧 sergio[dot]cris[at]princeton[dot]edu
