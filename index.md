@@ -4,7 +4,7 @@
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<p align="justify"> I am a third year PhD student in Applied and Computational Mathematics (PACM) at <a href="https://www.pacm.princeton.edu">Princeton University</a>. I am advised by <a href="https://web.math.princeton.edu/~huh/">June Huh</a>. 
+<p align="justify"> I am a third year PhD student in Applied and Computational Mathematics (PACM) at <a href="https://www.pacm.princeton.edu">Princeton University</a>. I am advised by <a href="https://web.math.princeton.edu/~huh/">June Huh</a>. </p>
 
 <p align="justify"> My current interests lie in the intersection of combinatorics, algebraic geometry and convex geometry, and their applications. Here is my <a href="assets/CV_25.pdf">CV</a>. </p>
 
@@ -32,6 +32,6 @@ Harmonic Hierarchies for the Sphere aka HarmonicPolya. [<a href="https://github.
 
 <h4><strong> Contact </strong> </h4>
 
-📧 sergio[dot]cris[at]princeton[dot]edu
+<p> Email: sergio[dot]cris[at]princeton[dot]edu </p>
 
-🐱 <a href="https://github.com/SergioCS147">GitHub: SergioCS147</a>
+<p> GitHub: <a href="https://github.com/SergioCS147">GitHub: SergioCS147</a> </p>
