@@ -11,7 +11,7 @@ permalink: /activities/
 </ul>
 -->
 
-<h4><strong> Talks </strong> </h4>
+<h4><strong> Talks and conferences </strong> </h4>
 
 <ul>
   <li>September 2025 - <em>Inequalities for metric trees and matroids</em> at the <a href="https://www.umass.edu/mathematics-statistics/seminars/discrete-math-seminar">UMass Amherst Discrete Math Seminar</a>.
