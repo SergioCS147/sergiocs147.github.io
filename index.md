@@ -4,8 +4,6 @@
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-# Sergio Cristancho
-
 <p align="justify"> I am a third year PhD student in Applied and Computational Mathematics (PACM) at <a href="https://www.pacm.princeton.edu">Princeton University</a>. I am advised by <a href="https://web.math.princeton.edu/~huh/">June Huh</a>. 
 
 <p align="justify"> My current interests lie in the intersection of combinatorics, algebraic geometry and convex geometry, and their applications. Here is my <a href="assets/CV_25.pdf">CV</a>. </p>
@@ -32,7 +30,7 @@ Harmonic Hierarchies for the Sphere aka HarmonicPolya. [<a href="https://github.
   <li>June 2022 - <em>Harmonic Hierarchies for Polynomial Optimization</em> at <a href="https://scm.org.co/mapi-2/">MAPI 2</a>.</li>
 </ul>
 
-# Contact
+<h4><strong> Contact </strong> </h4>
 
 📧 sergio[dot]cris[at]princeton[dot]edu
 
