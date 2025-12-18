@@ -4,13 +4,31 @@
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<img src="assets/me_2025.png" width="600" height="600">
+<div class="intro">
+  <div class="intro-text">
+    <p>
+      I am a third year PhD student in Applied and Computational Mathematics (PACM) at
+      <a href="https://www.pacm.princeton.edu">Princeton University</a>.
+      I am advised by <a href="https://web.math.princeton.edu/~huh/">June Huh</a>.
+    </p>
 
-<p align="justify"> I am a third year PhD student in Applied and Computational Mathematics (PACM) at <a href="https://www.pacm.princeton.edu">Princeton University</a>. I am advised by <a href="https://web.math.princeton.edu/~huh/">June Huh</a>. </p>
+    <p>
+      My current interests lie in the intersection of combinatorics, algebraic geometry
+      and convex geometry, and their applications. Here is my
+      <a href="assets/CV_25.pdf">CV</a>.
+    </p>
 
-<p align="justify"> My current interests lie in the intersection of combinatorics, algebraic geometry and convex geometry, and their applications. Here is my <a href="assets/CV_25.pdf">CV</a>. </p>
+    <p>
+      Previously I was a master's student at
+      <a href="https://matematicas.uniandes.edu.co">Universidad de los Andes</a>
+      under the guidance of
+      <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a>
+      and an undergraduate in both Mathematics and Physics at UniAndes as well.
+    </p>
+  </div>
 
-<p align="justify"> Previously I was a master's student at <a href="https://matematicas.uniandes.edu.co">Universidad de los Andes</a> under the guidance of <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a> and an undergraduate in both Mathematics and Physics at UniAndes as well. </p>
+  <img src="assets/me_2025.png" alt="Photo" class="intro-image">
+</div>
 
 <h2><strong> Publications </strong> </h2>
 
