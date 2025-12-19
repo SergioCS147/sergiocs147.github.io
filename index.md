@@ -45,7 +45,7 @@ Grassmannians and toric varieties.
 
 <h2><strong> Talks and conferences </strong> </h2>
 
-<ul class="fixed-list">
+<ul>
   <li>October 2025 - <em>Lorentzian polynomials and triangular hyperfields</em> at <a href="https://www.mfo.de/www/activity/2542">Arbeitsgemeinschaft: Combinatorial Hodge Theory</a>.</li>
   <li>September 2025 - <em>Inequalities for metric trees and matroids</em> at the <a href="https://www.umass.edu/mathematics-statistics/seminars/discrete-math-seminar">UMass Amherst Discrete Math Seminar</a>.</li>
   <li>January 2025 - <em>Three proofs of the reverse Khovanskii-Teissier Inequality</em> at the IAS Special Year Seminar, <a href="https://www.youtube.com/watch?v=R48D9au4ceU&t=6s">recording</a>.</li>
