@@ -53,3 +53,22 @@ h1, h2, h3, h4 {
     width: 250px;
   }
 }
+
+.diamond-list {
+  list-style: none;        /* remove default bullets */
+  padding-left: 1.2em;
+}
+
+.diamond-list li {
+  position: relative;
+  margin: 0.4em 0;
+}
+
+.diamond-list li::before {
+  content: "◆";            /* diamond */
+  position: absolute;
+  left: -1.2em;
+  font-size: 0.8em;         /* adjust size */
+  top: 0.2em;
+}
+
