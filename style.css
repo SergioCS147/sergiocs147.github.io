@@ -8,7 +8,7 @@ header h1 a {
 
 main {
   max-width: 900px;   /* adjust: 800–1000px works well */
-  margin: 2rem auto;     /* center horizontally */
+  margin: 0rem auto;     /* center horizontally */
   padding: 0 1.5rem;    /* inner spacing */
 }
 
