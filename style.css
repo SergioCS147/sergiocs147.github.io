@@ -6,9 +6,15 @@ header h1 a {
   cursor: default !important;
 }
 
+main {
+  max-width: 900px;   /* adjust: 800–1000px works well */
+  margin: 0 auto;     /* center horizontally */
+  padding: 1.5rem;    /* inner spacing */
+}
+
 body {
   font-family: "Garamond", "Times New Roman", serif;
-  max-width: 400px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 1.5rem;
   line-height: 1.6;
