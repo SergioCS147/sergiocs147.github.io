@@ -54,24 +54,6 @@ h1, h2, h3, h4 {
   }
 }
 
-.fixed-list {
-  padding-left: 1.5em;    /* space for bullet */
-  margin: 1em 0;
-}
-
-.fixed-list li {
-  position: relative;
-  margin: 0.5em 0;
-}
-
-.fixed-list li::before {
-  position: absolute;
-  left: 0;
-  top: 0;                 /* aligns diamond with text vertically */
-  font-size: 0.8em;       /* adjust size as needed */
-  color: black;           /* bullet color */
-}
-
 .diamond-list {
   list-style: none;       /* remove default bullets */
   padding-left: 1.5em;    /* space for bullet */
