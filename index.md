@@ -33,19 +33,19 @@ Grassmannians and toric varieties.
 </div>
 
 <h2><strong> Publications </strong> </h2>
-<ul class="diamond-list">
+<ul class="diamonds">
  <li> <a href="https://epubs.siam.org/doi/full/10.1137/22M1484511"> Harmonic Hierarchies for Polynomial Optimization.</a> With <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a>. 2024. </li>
 </ul>
 
 <h3><strong> Code </strong> </h3>
 
-<ul class="diamond-list">
+<ul class="diamonds">
   <li> <a href="https://github.com/SergioCS147/HarmonicPolya.jl">HarmonicPolya</a> - Harmonic Hierarchies for the Sphere. </li>
 </ul>
 
 <h2><strong> Talks and conferences </strong> </h2>
 
-<ul class="diamond-list">
+<ul class="diamonds">
   <li>October 2025 - <em>Lorentzian polynomials and triangular hyperfields</em> at <a href="https://www.mfo.de/www/activity/2542">Arbeitsgemeinschaft: Combinatorial Hodge Theory</a>.</li>
   <li>September 2025 - <em>Inequalities for metric trees and matroids</em> at the <a href="https://www.umass.edu/mathematics-statistics/seminars/discrete-math-seminar">UMass Amherst Discrete Math Seminar</a>.</li>
   <li>January 2025 - <em>Three proofs of the reverse Khovanskii-Teissier Inequality</em> at the IAS Special Year Seminar, <a href="https://www.youtube.com/watch?v=R48D9au4ceU&t=6s">recording</a>.</li>
