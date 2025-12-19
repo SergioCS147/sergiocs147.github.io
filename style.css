@@ -54,9 +54,14 @@ h1, h2, h3, h4 {
   }
 }
 
-ul, ol {
+.fixed_list {
   padding-left: 1.5em;    /* space for bullet */
-  margin: 1em 0;    /* optional: remove default margin too */
+  margin: 1em 0;
+}
+
+.fixed-list li {
+  position: relative;
+  margin: 0.5em 0;
 }
 
 .diamond-list {
