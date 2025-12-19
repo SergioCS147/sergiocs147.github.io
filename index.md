@@ -33,8 +33,9 @@ Grassmannians and toric varieties.
 </div>
 
 <h2><strong> Publications </strong> </h2>
-
-Harmonic Hierarchies for Polynomial Optimization. With <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a>. 2024. [<a href="https://epubs.siam.org/doi/full/10.1137/22M1484511">link</a>]
+<ul class="diamond-list">
+ <li> </li>Harmonic Hierarchies for Polynomial Optimization. With <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a>. 2024. [<a href="https://epubs.siam.org/doi/full/10.1137/22M1484511">link</a>] </li>
+</ul>
 
 <h3><strong> Code </strong> </h3>
 
