@@ -53,23 +53,3 @@ h1, h2, h3, h4 {
     width: 250px;
   }
 }
-
-.diamonds {
-    list-style: none;        /* remove default bullets */
-    padding-left: 1.5em;     /* space for diamonds */
-    margin-left: 0;
-}
-
-.diamonds li {
-    position: relative;
-    margin: 0.5em 0;
-}
-
-.diamonds li::before {
-    content: "\25C6";       /* Unicode diamond ◈ */
-    position: absolute;
-    left: 0;                /* distance from container left edge */
-    top: 0.15em;            /* adjust vertical alignment with text */
-    font-size: 0.8em;
-    color: black;
-}
