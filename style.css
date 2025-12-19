@@ -55,8 +55,8 @@ h1, h2, h3, h4 {
 }
 
 ul, ol {
-  padding-left: 0;    /* removes the default 40px padding */
-  margin-left: 0;     /* optional: remove default margin too */
+  padding-left: 1.5em;    /* space for bullet */
+  margin: 1em 0;    /* optional: remove default margin too */
 }
 
 .diamond-list {
