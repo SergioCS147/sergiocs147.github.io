@@ -54,18 +54,18 @@ h1, h2, h3, h4 {
   }
 }
 
-.diamond-list {
+.diamonds {
     list-style: none;        /* remove default bullets */
     padding-left: 1.5em;     /* space for diamonds */
     margin-left: 0;
 }
 
-.diamond-list li {
+.diamonds li {
     position: relative;
     margin: 0.5em 0;
 }
 
-.diamond-list li::before {
+.diamonds li::before {
     content: "\25C6";       /* Unicode diamond ◈ */
     position: absolute;
     left: 0;                /* distance from container left edge */
