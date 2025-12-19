@@ -39,7 +39,9 @@ Grassmannians and toric varieties.
 
 <h3><strong> Code </strong> </h3>
 
-Harmonic Hierarchies for the Sphere aka HarmonicPolya. [<a href="https://github.com/SergioCS147/HarmonicPolya.jl">github</a>].
+<ul class="square-list">
+  <li> Harmonic Hierarchies for the Sphere - HarmonicPolya. [<a href="https://github.com/SergioCS147/HarmonicPolya.jl">github</a>]. </li>
+</ul>
 
 <h2><strong> Talks and conferences </strong> </h2>
 
