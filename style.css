@@ -56,7 +56,7 @@ h1, h2, h3, h4 {
 
 .diamond-list {
   list-style: none;       /* remove default bullets */
-  padding-left: 1.5em;    /* space for bullet */
+  padding-left: 0em;    /* space for bullet */
   margin: 1em 0;
 }
 
