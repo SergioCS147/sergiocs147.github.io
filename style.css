@@ -55,21 +55,21 @@ h1, h2, h3, h4 {
 }
 
 .diamond-list {
-  list-style: none;       /* remove default bullets */
-  padding-left: 1.5em;    /* space for bullet */
-  margin: 1em 0;
+    list-style: none;        /* remove default bullets */
+    padding-left: 1.5em;     /* space for diamonds */
+    margin-left: 0;
 }
 
 .diamond-list li {
-  position: relative;
-  margin: 0.5em 0;
+    position: relative;
+    margin: 0.5em 0;
 }
 
 .diamond-list li::before {
-  content: "\25C6";       /* Unicode black diamond ◈ */
-  position: absolute;
-  left: 0;
-  top: 0;                 /* aligns diamond with text vertically */
-  font-size: 0.8em;       /* adjust size as needed */
-  color: black;           /* bullet color */
+    content: "\25C6";       /* Unicode diamond ◈ */
+    position: absolute;
+    left: 0;                /* distance from container left edge */
+    top: 0.15em;            /* adjust vertical alignment with text */
+    font-size: 0.8em;
+    color: black;
 }
