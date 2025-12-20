@@ -61,3 +61,18 @@ Grassmannians and toric varieties.
 <p> Email: sergio[dot]cris[at]princeton[dot]edu </p>
 
 <p> GitHub: <a href="https://github.com/SergioCS147">SergioCS147</a> </p>
+
+<p style="text-align: center; font-style: italic;">
+  LOST <br>
+  Stand still. The trees ahead and bushes beside you Are not lost. Wherever you are is called Here, And you must treat it as a powerful stranger,<br>
+Must ask permission to know it and be known. <br>
+The forest breathes. Listen. It answers, <br>
+If you leave it, you may come back again, saying Here. <br>
+No two trees are the same to Raven. <br>
+No two branches are the same to Wren. <br>
+If what a tree or a bush does is lost on you, <br>
+You are surely lost. Stand still. The forest knows <br>
+Where you are. You must let it find you. <br>
+  - David Wagoner, 1971 
+</p>
+
