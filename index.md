@@ -63,12 +63,12 @@ Grassmannians and toric varieties.
 <p> GitHub: <a href="https://github.com/SergioCS147">SergioCS147</a> </p>
 
 <p style="text-align: center; font-style: italic;">
-  Stand still. <br>
-  The trees ahead and bushes beside you <br>
-  Are not lost. Wherever you are is called Here, <br>
+  “Stand still. <br>
+  The trees ahead and bushes beside you are not lost.<br>
+  Wherever you are is called Here, <br>
   And you must treat it as a powerful stranger,<br>
   Must ask permission to know it and be known. <br>
-  The forest breathes. Listen. It answers... <br>
+  The forest breathes. Listen. It answers...” <br>
   <!--If you leave it, you may come back again, saying Here. <br>
   No two trees are the same to Raven. <br>
   No two branches are the same to Wren. <br>
