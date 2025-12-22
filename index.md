@@ -20,7 +20,7 @@
     </p>
     <p>
       My current interests lie in the intersection of combinatorics, algebraic geometry
-      and convex geometry, and their plentiful applications. Among the objects like to study are matroids, graphs, polyhedra,
+      and convex geometry, and their plentiful applications. Among the objects I like to study are matroids, graphs, polyhedra,
 Grassmannians and toric varieties.
     </p>
     <p>
