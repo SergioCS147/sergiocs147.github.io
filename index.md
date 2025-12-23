@@ -29,7 +29,7 @@ Grassmannians and toric varieties.
     
   </div>
 
-  <img src="assets/me_2025.png" alt="Photo" class="intro-image">
+  <img src="assets/me_2025_2.png" alt="Photo" class="intro-image">
 </div>
 
 <h2><strong> Publications </strong> </h2>
