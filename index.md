@@ -32,9 +32,14 @@ Grassmannians and toric varieties.
   <img src="assets/me_2025_2.png" alt="Photo" class="intro-image">
 </div>
 
+<h2><strong> Preprints </strong></h2>
+<ul>
+  <li> <a href="https://arxiv.org/abs/2601.02547"> Tree metrics and log-concavity for matroids.</a> With <a href="https://fardila.com">Federico Ardila</a>, <a href="https://gdenham.math.uwo.ca">Graham Denham</a>,<a href="https://www.math.cmu.edu/~ceur/">Chris Eur</a>, <a href="https://web.math.princeton.edu/~huh/">June Huh</a> and <a href="https://people.math.wisc.edu/~bwang274/">Botong Wang</a>. 2026.  < </li>
+</ul>
+
 <h2><strong> Publications </strong> </h2>
 <ul>
- <li> <a href="https://epubs.siam.org/doi/full/10.1137/22M1484511"> Harmonic Hierarchies for Polynomial Optimization.</a> With <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a>. 2024. </li>
+ <li> <a href="https://epubs.siam.org/doi/full/10.1137/22M1484511"> Harmonic hierarchies for polynomial optimization.</a> With <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a>. 2024. </li>
 </ul>
 
 <h3><strong> Code </strong> </h3>
