@@ -34,7 +34,7 @@ Grassmannians and toric varieties.
 
 <h2><strong> Preprints </strong></h2>
 <ul>
-  <li> <a href="https://arxiv.org/abs/2601.02547"> Tree metrics and log-concavity for matroids.</a> With <a href="https://fardila.com">Federico Ardila</a>, <a href="https://gdenham.math.uwo.ca">Graham Denham</a>,<a href="https://www.math.cmu.edu/~ceur/">Chris Eur</a>, <a href="https://web.math.princeton.edu/~huh/">June Huh</a> and <a href="https://people.math.wisc.edu/~bwang274/">Botong Wang</a>. 2026. </li>
+  <li> <a href="https://arxiv.org/abs/2601.02547"> Tree metrics and log-concavity for matroids.</a> With <a href="https://fardila.com">Federico Ardila</a>, <a href="https://gdenham.math.uwo.ca">Graham Denham</a>, <a href="https://www.math.cmu.edu/~ceur/">Chris Eur</a>, <a href="https://web.math.princeton.edu/~huh/">June Huh</a> and <a href="https://people.math.wisc.edu/~bwang274/">Botong Wang</a>. 2026. </li>
 </ul>
 
 <h2><strong> Publications </strong> </h2>
