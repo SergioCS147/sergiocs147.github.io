@@ -80,6 +80,6 @@ Grassmannians and toric varieties.
   If what a tree or a bush does is lost on you, <br>
   You are surely lost. Stand still. The forest knows <br>
   Where you are. You must let it find you. <br>-->
-  - Excerpt from LOST, David Wagoner, 1971 
+  - Excerpt from <i>Lost</i>, David Wagoner, 1971 
 </p>
 
