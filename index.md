@@ -34,6 +34,7 @@ Grassmannians and toric varieties.
 
 <h2><strong> Preprints </strong></h2>
 <ul>
+  <li> <a href="https://arxiv.org/abs/2602.07241"> Extremal Graphs for the Lights Out Problem.</a> With Julien Codsi, Alexander Divoux and <a href="https://varunsivashankar.com">Varun Sivashankar</a>. 2026. </li>
   <li> <a href="https://arxiv.org/abs/2601.02547"> Tree metrics and log-concavity for matroids.</a> With <a href="https://fardila.com">Federico Ardila</a>, <a href="https://gdenham.math.uwo.ca">Graham Denham</a>, <a href="https://www.math.cmu.edu/~ceur/">Chris Eur</a>, <a href="https://web.math.princeton.edu/~huh/">June Huh</a> and <a href="https://people.math.wisc.edu/~bwang274/">Botong Wang</a>. 2026. </li>
 </ul>
 
@@ -48,7 +49,7 @@ Grassmannians and toric varieties.
   <li> <a href="https://github.com/SergioCS147/HarmonicPolya.jl">HarmonicPolya</a> - Harmonic Hierarchies for the Sphere. </li>
 </ul>
 
-<h2><strong> Talks and conferences </strong> </h2>
+<h2><strong> Talks and activities </strong> </h2>
 
 <ul>
   <li>October 2025 - <em>Lorentzian polynomials and triangular hyperfields</em> at <a href="https://www.mfo.de/www/activity/2542">Arbeitsgemeinschaft: Combinatorial Hodge Theory</a>.</li>
