@@ -32,9 +32,15 @@ Grassmannians and toric varieties.
   <img src="assets/me_2025_2.png" alt="Photo" class="intro-image">
 </div>
 
+<h2><strong> Preprints </strong></h2>
+<ul>
+  <li> <a href="https://arxiv.org/abs/2602.07241"> Extremal Graphs for the Lights Out Problem.</a> With Julien Codsi, Alexander Divoux and <a href="https://varunsivashankar.com">Varun Sivashankar</a>. 2026. </li>
+  <li> <a href="https://arxiv.org/abs/2601.02547"> Tree metrics and log-concavity for matroids.</a> With <a href="https://fardila.com">Federico Ardila</a>, <a href="https://gdenham.math.uwo.ca">Graham Denham</a>, <a href="https://www.math.cmu.edu/~ceur/">Chris Eur</a>, <a href="https://web.math.princeton.edu/~huh/">June Huh</a> and <a href="https://people.math.wisc.edu/~bwang274/">Botong Wang</a>. 2026. </li>
+</ul>
+
 <h2><strong> Publications </strong> </h2>
 <ul>
- <li> <a href="https://epubs.siam.org/doi/full/10.1137/22M1484511"> Harmonic Hierarchies for Polynomial Optimization.</a> With <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a>. 2024. </li>
+ <li> <a href="https://epubs.siam.org/doi/full/10.1137/22M1484511"> Harmonic hierarchies for polynomial optimization.</a> With <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a>. 2024. </li>
 </ul>
 
 <h3><strong> Code </strong> </h3>
@@ -43,7 +49,7 @@ Grassmannians and toric varieties.
   <li> <a href="https://github.com/SergioCS147/HarmonicPolya.jl">HarmonicPolya</a> - Harmonic Hierarchies for the Sphere. </li>
 </ul>
 
-<h2><strong> Talks and conferences </strong> </h2>
+<h2><strong> Talks and activities </strong> </h2>
 
 <ul>
   <li>October 2025 - <em>Lorentzian polynomials and triangular hyperfields</em> at <a href="https://www.mfo.de/www/activity/2542">Arbeitsgemeinschaft: Combinatorial Hodge Theory</a>.</li>
@@ -75,6 +81,6 @@ Grassmannians and toric varieties.
   If what a tree or a bush does is lost on you, <br>
   You are surely lost. Stand still. The forest knows <br>
   Where you are. You must let it find you. <br>-->
-  - Excerpt from LOST, David Wagoner, 1971 
+  - Excerpt from <i>Lost</i>, David Wagoner, 1971 
 </p>
 
