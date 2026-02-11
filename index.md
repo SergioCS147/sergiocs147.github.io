@@ -24,7 +24,7 @@
 Grassmannians and toric varieties.
     </p>
     <p>
-    Here is my <a href="assets/CV_25.pdf">CV</a> and <a href="https://scholar.google.com/citations?user=xw1AV7YAAAAJ&hl=en">Google Scholar</a>.
+    Here is my <a href="assets/CV.pdf">CV</a> and <a href="https://scholar.google.com/citations?user=xw1AV7YAAAAJ&hl=en">Google Scholar</a>.
     </p>
     
   </div>
