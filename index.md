@@ -52,8 +52,9 @@ Grassmannians and toric varieties.
 <h2><strong> Talks and activities </strong> </h2>
 
 <ul>
+  <li>April 2026 - <em>nequalities for metric trees and matroids</em>e at the <a href="https://www.ms.uky.edu/~dhje223/AlgebraSeminarSpring2026.html">University of Kentucky Algebra Seminar</a>.</li>
   <li>October 2025 - <em>Lorentzian polynomials and triangular hyperfields</em> at <a href="https://www.mfo.de/www/activity/2542">Arbeitsgemeinschaft: Combinatorial Hodge Theory</a>.</li>
-  <li>September 2025 - <em>Inequalities for metric trees and matroids</em> at the <a href="https://www.umass.edu/mathematics-statistics/seminars/discrete-math-seminar">UMass Amherst Discrete Math Seminar</a>.</li>
+  <li>September 2025 - <em>Inequalities for metric trees and matroids</em> at the <a href="https://www.umass.edu/mathematics-statistics/seminars/discrete-math-seminar">University of Massachusetts Amherst Discrete Math Seminar</a>.</li>
   <li>January 2025 - <em>Three proofs of the reverse Khovanskii-Teissier Inequality</em> at the IAS Special Year Seminar, <a href="https://www.youtube.com/watch?v=R48D9au4ceU&t=6s">recording</a>.</li>
   <li>October 2024 - <em>What is a toric variety?</em> at <a href="https://www.ias.edu/mathematical-physics/events/amplitudes-and-combinatorics-synergy-event">Amplitudes and Combinatorics Synergy Event, Institute for Advanced Study</a>.</li>
   <li>June 2024 - TA for <em>Combina-torics</em> at <a href="https://ecco2024.combinatoria.co/home-english"> ECCO 2024</a>.</li>
