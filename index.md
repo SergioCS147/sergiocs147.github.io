@@ -7,7 +7,7 @@
 <div class="intro">
   <div class="intro-text">
     <p>
-      I am a third year PhD student in Applied and Computational Mathematics (PACM) at
+      I am a PhD student in Applied and Computational Mathematics (PACM) at
       <a href="https://www.pacm.princeton.edu">Princeton University</a>.
       I am advised by <a href="https://web.math.princeton.edu/~huh/">June Huh</a>.
     </p>
@@ -33,8 +33,8 @@ Grassmannians and toric varieties.
 
 <h2><strong> Preprints </strong></h2>
 <ul>
-  <li> <a href="https://arxiv.org/abs/2602.07241"> Extremal Graphs for the Lights Out Problem.</a> With Julien Codsi, Alexander Divoux and <a href="https://varunsivashankar.com">Varun Sivashankar</a>. 2026. </li>
-  <li> <a href="https://arxiv.org/abs/2601.02547"> Tree metrics and log-concavity for matroids.</a> With <a href="https://fardila.com">Federico Ardila</a>, <a href="https://gdenham.math.uwo.ca">Graham Denham</a>, <a href="https://www.math.cmu.edu/~ceur/">Chris Eur</a>, <a href="https://web.math.princeton.edu/~huh/">June Huh</a> and <a href="https://people.math.wisc.edu/~bwang274/">Botong Wang</a>. 2026. </li>
+  <li> <a href="https://arxiv.org/abs/2602.07241"> Extremal Graphs for the Lights Out Problem.</a> With Julien Codsi, Alexander Divoux and <a href="https://varunsivashankar.com">Varun Sivashankar</a>. 2026. (Submitted). </li>
+  <li> <a href="https://arxiv.org/abs/2601.02547"> Tree metrics and log-concavity for matroids.</a> With <a href="https://fardila.com">Federico Ardila</a>, <a href="https://gdenham.math.uwo.ca">Graham Denham</a>, <a href="https://www.math.cmu.edu/~ceur/">Chris Eur</a>, <a href="https://web.math.princeton.edu/~huh/">June Huh</a> and <a href="https://people.math.wisc.edu/~bwang274/">Botong Wang</a>. 2026. (To appear in Proceedings of the London Mathematical Society). </li>
 </ul>
 
 <h2><strong> Publications </strong> </h2>
