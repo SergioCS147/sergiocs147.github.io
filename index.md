@@ -19,7 +19,7 @@
       and an undergraduate in both Mathematics and Physics at UniAndes as well.
     </p>
     <p>
-      I am interested in algebraic combinatorics combinatorics in the interplay of algebra and geometry. Among the objects I like to study are matroids, graphs, polyhedra, Grassmannians and toric varieties.
+      I am interested in algebraic combinatorics in the interplay of algebra and geometry. Among the objects I like to study are matroids, graphs, polyhedra, Grassmannians and toric varieties.
     </p>
     <p>
     Here are my <a href="assets/CV.pdf">CV</a> and <a href="https://scholar.google.com/citations?user=xw1AV7YAAAAJ&hl=en">Google Scholar</a>.
