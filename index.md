@@ -37,8 +37,8 @@
 
 <h2><strong> Publications </strong> </h2>
 <ul>
-  <li> <a href="https://doi.org/10.1112/plms.70197"> Tree metrics and log-concavity for matroids.</a> With <a href="https://fardila.com">Federico Ardila</a>, <a href="https://gdenham.math.uwo.ca">Graham Denham</a>, <a href="https://www.math.cmu.edu/~ceur/">Chris Eur</a>, <a href="https://web.math.princeton.edu/~huh/">June Huh</a> and <a href="https://people.math.wisc.edu/~bwang274/">Botong Wang</a>. 2026. </li>
- <li> <a href="https://epubs.siam.org/doi/full/10.1137/22M1484511"> Harmonic hierarchies for polynomial optimization.</a> With <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a>. 2024. </li>
+  <li> <a href="https://doi.org/10.1112/plms.70197"> Tree metrics and log-concavity for matroids.</a> With <a href="https://fardila.com">Federico Ardila</a>, <a href="https://gdenham.math.uwo.ca">Graham Denham</a>, <a href="https://www.math.cmu.edu/~ceur/">Chris Eur</a>, <a href="https://web.math.princeton.edu/~huh/">June Huh</a> and <a href="https://people.math.wisc.edu/~bwang274/">Botong Wang</a>. 2026. Proceedings of the London Mathematical Society.</li>
+ <li> <a href="https://epubs.siam.org/doi/full/10.1137/22M1484511"> Harmonic hierarchies for polynomial optimization.</a> With <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a>. 2024. SIAM Journal on Optimization.</li>
 </ul>
 
 <h3><strong> Code </strong> </h3>
