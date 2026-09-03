@@ -19,8 +19,7 @@
       and an undergraduate in both Mathematics and Physics at UniAndes as well.
     </p>
     <p>
-      I am interested in combinatorics in the interplay of algebra and geometry. Among the objects I like to study are matroids, graphs, polyhedra,
-Grassmannians and toric varieties.
+      I am interested in algebraic combinatorics combinatorics in the interplay of algebra and geometry. Among the objects I like to study are matroids, graphs, polyhedra, Grassmannians and toric varieties.
     </p>
     <p>
     Here are my <a href="assets/CV.pdf">CV</a> and <a href="https://scholar.google.com/citations?user=xw1AV7YAAAAJ&hl=en">Google Scholar</a>.
@@ -34,11 +33,11 @@ Grassmannians and toric varieties.
 <h2><strong> Preprints </strong></h2>
 <ul>
   <li> <a href="https://arxiv.org/abs/2602.07241"> Extremal Graphs for the Lights Out Problem.</a> With Julien Codsi, Alexander Divoux and <a href="https://varunsivashankar.com">Varun Sivashankar</a>. 2026. (Submitted). </li>
-  <li> <a href="https://arxiv.org/abs/2601.02547"> Tree metrics and log-concavity for matroids.</a> With <a href="https://fardila.com">Federico Ardila</a>, <a href="https://gdenham.math.uwo.ca">Graham Denham</a>, <a href="https://www.math.cmu.edu/~ceur/">Chris Eur</a>, <a href="https://web.math.princeton.edu/~huh/">June Huh</a> and <a href="https://people.math.wisc.edu/~bwang274/">Botong Wang</a>. 2026. (To appear in Proceedings of the London Mathematical Society). </li>
 </ul>
 
 <h2><strong> Publications </strong> </h2>
 <ul>
+  <li> <a href="https://doi.org/10.1112/plms.70197"> Tree metrics and log-concavity for matroids.</a> With <a href="https://fardila.com">Federico Ardila</a>, <a href="https://gdenham.math.uwo.ca">Graham Denham</a>, <a href="https://www.math.cmu.edu/~ceur/">Chris Eur</a>, <a href="https://web.math.princeton.edu/~huh/">June Huh</a> and <a href="https://people.math.wisc.edu/~bwang274/">Botong Wang</a>. 2026. </li>
  <li> <a href="https://epubs.siam.org/doi/full/10.1137/22M1484511"> Harmonic hierarchies for polynomial optimization.</a> With <a href="http://wwwprof.uniandes.edu.co/~mvelasco/Velasco.html">Mauricio Velasco</a>. 2024. </li>
 </ul>
 
