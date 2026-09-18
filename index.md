@@ -32,7 +32,8 @@
 
 <h2><strong> Preprints </strong></h2>
 <ul>
-  <li> <a href="https://arxiv.org/abs/2602.07241"> Extremal Graphs for the Lights Out Problem.</a> With Julien Codsi, Alexander Divoux and <a href="https://varunsivashankar.com">Varun Sivashankar</a>. 2026. (Submitted). </li>
+  <li> <a href="https://arxiv.org/abs/2609.17898"> Toric vector bundles with trivial Chern class and flag decorations. </a> 2026. </li>
+  <li> <a href="https://arxiv.org/abs/2602.07241"> Extremal Graphs for the Lights Out Problem.</a> With Julien Codsi, Alexander Divoux and <a href="https://varunsivashankar.com">Varun Sivashankar</a>. 2026. (Submitted to journal). </li>
 </ul>
 
 <h2><strong> Publications </strong> </h2>
