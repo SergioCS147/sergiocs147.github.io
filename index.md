@@ -51,6 +51,7 @@
 <h2><strong> Talks and activities </strong> </h2>
 
 <ul>
+  <li>September 2026 -<em>Tree metrics and log-concavity for matroids</em> at <a href="https://aco.math.cmu.edu/seminar.html">Carnegie Mellon Algorithms, Combinatorics, and Optimization Seminar</a>.</li>
   <li>July 2026 -<em>Tree metrics and log-concavity for matroids</em> at <a href="https://sites.math.washington.edu/fpsac2026/">FPSAC 2026</a>.</li> 
   <li>April 2026 - <em>Inequalities for metric trees and matroids</em> at the <a href="https://www.ms.uky.edu/~dhje223/AlgebraSeminarSpring2026.html">University of Kentucky Algebra Seminar</a>.</li>
   <li>October 2025 - <em>Lorentzian polynomials and triangular hyperfields</em> at <a href="https://www.mfo.de/www/activity/2542">Arbeitsgemeinschaft: Combinatorial Hodge Theory</a>.</li>
